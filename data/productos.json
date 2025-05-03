@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "nombre": "Auriculares Bluetooth",
+      "desc": "Auriculares inalámbricos con cancelación de ruido",
+      "precio": 12999.99,
+      "imagen": "https://example.com/img/auriculares.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Notebook 14''",
+      "desc": "Notebook con procesador Intel i5 y 8GB RAM",
+      "precio": 259999.50,
+      "imagen": "https://example.com/img/notebook.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Smartphone X10",
+      "desc": "Teléfono móvil con cámara de 64MP",
+      "precio": 189999.00,
+      "imagen": "https://example.com/img/smartphone.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Mouse Gamer",
+      "desc": "Mouse óptico con luces LED RGB",
+      "precio": 6999.00,
+      "imagen": "https://example.com/img/mouse.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Teclado Mecánico",
+      "desc": "Teclado mecánico con switches azules",
+      "precio": 14999.99,
+      "imagen": "https://example.com/img/teclado.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Monitor 24''",
+      "desc": "Monitor Full HD con tecnología IPS",
+      "precio": 79999.00,
+      "imagen": "https://example.com/img/monitor.jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "Impresora Multifunción",
+      "desc": "Imprime, escanea y copia, conexión Wi-Fi",
+      "precio": 59999.00,
+      "imagen": "https://example.com/img/impresora.jpg"
+    },
+    {
+      "id": 8,
+      "nombre": "Parlantes 2.1",
+      "desc": "Sistema de sonido con subwoofer incluido",
+      "precio": 10999.00,
+      "imagen": "https://example.com/img/parlantes.jpg"
+    },
+    {
+      "id": 9,
+      "nombre": "Tablet 10''",
+      "desc": "Tablet con Android y 64GB de almacenamiento",
+      "precio": 94999.90,
+      "imagen": "https://example.com/img/tablet.jpg"
+    },
+    {
+      "id": 10,
+      "nombre": "Webcam HD",
+      "desc": "Cámara web para videollamadas en alta definición",
+      "precio": 8999.00,
+      "imagen": "https://example.com/img/webcam.jpg"
+    }
+  ]
