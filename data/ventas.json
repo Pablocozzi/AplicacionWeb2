@@ -1,105 +1,84 @@
 [
-    {
-      "id": 1,
-      "id_usuario": 3,
-      "fecha": "2025-04-15",
-      "total": 34998.00,
-      "dirección": "Av. Siempre Viva 742, Buenos Aires",
-      "productos": [
-        { "id": 2, "cantidad": 1 },
-        { "id": 5, "cantidad": 2 }
-      ]
-    },
-    {
-      "id": 2,
-      "id_usuario": 1,
-      "fecha": "2025-04-16",
-      "total": 189999.00,
-      "dirección": "Calle Falsa 123, Córdoba",
-      "productos": [
-        { "id": 3, "cantidad": 1 }
-      ]
-    },
-    {
-      "id": 3,
-      "id_usuario": 4,
-      "fecha": "2025-04-17",
-      "total": 109998.00,
-      "dirección": "Belgrano 555, Rosario",
-      "productos": [
-        { "id": 6, "cantidad": 1 },
-        { "id": 4, "cantidad": 2 }
-      ]
-    },
-    {
-      "id": 4,
-      "id_usuario": 2,
-      "fecha": "2025-04-17",
-      "total": 59999.00,
-      "dirección": "San Martín 890, Mendoza",
-      "productos": [
-        { "id": 7, "cantidad": 1 }
-      ]
-    },
-    {
-      "id": 5,
-      "id_usuario": 5,
-      "fecha": "2025-04-18",
-      "total": 239998.00,
-      "dirección": "9 de Julio 100, Salta",
-      "productos": [
-        { "id": 2, "cantidad": 2 }
-      ]
-    },
-    {
-      "id": 6,
-      "id_usuario": 6,
-      "fecha": "2025-04-19",
-      "total": 17998.00,
-      "dirección": "Italia 234, La Plata",
-      "productos": [
-        { "id": 1, "cantidad": 1 },
-        { "id": 4, "cantidad": 1 }
-      ]
-    },
-    {
-      "id": 7,
-      "id_usuario": 8,
-      "fecha": "2025-04-20",
-      "total": 94999.90,
-      "dirección": "Colón 456, Mar del Plata",
-      "productos": [
-        { "id": 9, "cantidad": 1 }
-      ]
-    },
-    {
-      "id": 8,
-      "id_usuario": 3,
-      "fecha": "2025-04-21",
-      "total": 29997.00,
-      "dirección": "San Juan 78, Tucumán",
-      "productos": [
-        { "id": 4, "cantidad": 3 }
-      ]
-    },
-    {
-      "id": 9,
-      "id_usuario": 7,
-      "fecha": "2025-04-22",
-      "total": 8999.00,
-      "dirección": "España 321, Bahía Blanca",
-      "productos": [
-        { "id": 10, "cantidad": 1 }
-      ]
-    },
-    {
-      "id": 10,
-      "id_usuario": 10,
-      "fecha": "2025-04-23",
-      "total": 23998.00,
-      "dirección": "Mitre 88, San Juan",
-      "productos": [
-        { "id": 5, "cantidad": 2 }
-      ]
-    }
-  ]
+  {
+    "id": 5001,
+    "id_usuario": 1,
+    "fecha": "2025-04-25",
+    "total": 370000,
+    "dirección": "Av. Siempre Viva 742",
+    "entregado": true,
+    "productos": [
+      {
+        "id": 102,
+        "cantidad": 1
+      },
+      {
+        "id": 103,
+        "cantidad": 1
+      }
+    ]
+  },
+  {
+    "id": 5002,
+    "id_usuario": 2,
+    "fecha": "2025-04-28",
+    "total": 450000,
+    "dirección": "Calle Falsa 123",
+    "entregado": false,
+    "productos": [
+      {
+        "id": 101,
+        "cantidad": 1
+      }
+    ]
+  },
+  {
+    "id": 5003,
+    "id_usuario": 3,
+    "fecha": "2025-04-30",
+    "total": 880000,
+    "dirección": "Belgrano 456",
+    "entregado": true,
+    "productos": [
+      {
+        "id": 101,
+        "cantidad": 1
+      },
+      {
+        "id": 102,
+        "cantidad": 1
+      }
+    ]
+  },
+  {
+    "id": 5004,
+    "id_usuario": 1,
+    "fecha": "2025-05-01",
+    "total": 160000,
+    "dirección": "Av. Corrientes 1234",
+    "entregado": false,
+    "productos": [
+      {
+        "id": 104,
+        "cantidad": 2
+      }
+    ]
+  },
+  {
+    "id": 5005,
+    "id_usuario": 2,
+    "fecha": "2025-05-02",
+    "total": 250000,
+    "dirección": "San Martín 222",
+    "entregado": true,
+    "productos": [
+      {
+        "id": 105,
+        "cantidad": 1
+      },
+      {
+        "id": 103,
+        "cantidad": 1
+      }
+    ]
+  }
+]
