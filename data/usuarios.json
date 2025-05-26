@@ -1,73 +1,73 @@
 [
   {
     "id": 1,
-    "nombre": "Carlos",
-    "apellido": "Pérez",
+    "name": "Carlos Perez",
+    "userName": "CarlosPerez",
     "email": "carlos.perez@mail.com",
-    "contraseña": "abc123"
+    "pass": "abc123"
   },
   {
     "id": 2,
-    "nombre": "Mariana",
-    "apellido": "López",
+    "name": "Mariana Lopez",
+    "userName": "MarianaLopez",
     "email": "mariana.lopez@mail.com",
-    "contraseña": "mar123"
+    "pass": "mar123"
   },
   {
     "id": 3,
-    "nombre": "Lucía",
-    "apellido": "Fernández",
+    "name": "Lucia Fernandez",
+    "userName": "LuciaFernandez",
     "email": "luciaf@mail.com",
-    "contraseña": "luciapass"
+    "pass": "luciapass"
   },
   {
     "id": 4,
-    "nombre": "Juan",
-    "apellido": "Pérez",
+    "name": "Juan Perez",
+    "userName": "Juan1212",
     "email": "juan.perez@example.com",
-    "contraseña": "abc123"
+    "pass": "abc123"
   },
   {
     "id": 5,
-    "nombre": "Pedro",
-    "apellido": "Sánchez",
+    "name": "Pedro Sanchez",
+    "userName": "PedroSanc",
     "email": "pedro.sanchez@example.com",
-    "contraseña": "pedro321"
+    "pass": "pedro321"
   },
   {
     "id": 6,
-    "nombre": "Laura",
-    "apellido": "Fernández",
+    "name": "Laura Fernandez",
+    "userName": "Laura1222",
     "email": "laura.fernandez@example.com",
-    "contraseña": "laura!pass"
+    "pass": "laura!pass"
   },
   {
     "id": 7,
-    "nombre": "Andrés",
-    "apellido": "Ramírez",
+    "name": "Andres Ramirez",
+    "userName": "Andresramirez",
     "email": "andres.ramirez@example.com",
-    "contraseña": "ramirez77"
+    "pass": "ramirez77"
   },
   {
     "id": 8,
-    "nombre": "Ana",
-    "apellido": "Torres",
+    "name": "Ana Torres",
+    "userName": "AnaTorres",
     "email": "ana.torres@example.com",
-    "contraseña": "ana.1234"
+    "pass": "ana.1234"
   },
   {
     "id": 9,
-    "nombre": "Diego",
-    "apellido": "Castro",
+    "name": "Diego Castro",
+    "userName": "DiegoCastro",
     "email": "diego.castro@example.com",
-    "contraseña": "diego_pass"
+    "pass": "diego_pass"
   },
   {
     "id": 10,
-    "nombre": "Sofía",
-    "apellido": "Morales",
+    "name": "Sofia Morales",
+    "userName": "SofiaMorales",
     "email": "sofia.morales@example.com",
-    "contraseña": "sofiaSecure"
+    "pass": "sofiaSecure"
   }
 ]
 

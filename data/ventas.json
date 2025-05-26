@@ -1,84 +1,44 @@
 [
   {
-    "id": 5001,
-    "id_usuario": 1,
-    "fecha": "2025-04-25",
-    "total": 370000,
-    "dirección": "Av. Siempre Viva 742",
-    "entregado": true,
-    "productos": [
-      {
-        "id": 102,
-        "cantidad": 1
-      },
-      {
-        "id": 103,
-        "cantidad": 1
-      }
-    ]
+    "id_sale": 1,
+    "id_item": 1,
+    "total": 800,
+    "date": "2025-01-01",
+    "seller": 101
   },
   {
-    "id": 5002,
-    "id_usuario": 2,
-    "fecha": "2025-04-28",
-    "total": 450000,
-    "dirección": "Calle Falsa 123",
-    "entregado": false,
-    "productos": [
-      {
-        "id": 101,
-        "cantidad": 1
-      }
-    ]
+    "id_sale": 2,
+    "id_item": 3,
+    "total": 700,
+    "date": "2025-01-15",
+    "seller": 102
   },
   {
-    "id": 5003,
-    "id_usuario": 3,
-    "fecha": "2025-04-30",
-    "total": 880000,
-    "dirección": "Belgrano 456",
-    "entregado": true,
-    "productos": [
-      {
-        "id": 101,
-        "cantidad": 1
-      },
-      {
-        "id": 102,
-        "cantidad": 1
-      }
-    ]
+    "id_sale": 3,
+    "id_item": 5,
+    "total": 1200,
+    "date": "2025-01-30",
+    "seller": 103
   },
   {
-    "id": 5004,
-    "id_usuario": 1,
-    "fecha": "2025-05-01",
-    "total": 160000,
-    "dirección": "Av. Corrientes 1234",
-    "entregado": false,
-    "productos": [
-      {
-        "id": 104,
-        "cantidad": 2
-      }
-    ]
+    "id_sale": 4,
+    "id_item": 2,
+    "total": 1000,
+    "date": "2025-02-01",
+    "seller": 104
   },
   {
-    "id": 5005,
-    "id_usuario": 2,
-    "fecha": "2025-05-02",
-    "total": 250000,
-    "dirección": "San Martín 222",
-    "entregado": true,
-    "productos": [
-      {
-        "id": 105,
-        "cantidad": 1
-      },
-      {
-        "id": 103,
-        "cantidad": 1
-      }
-    ]
+    "id_sale": 5,
+    "id_item": 7,
+    "total": 200,
+    "date": "2025-02-18",
+    "seller": 105
+  },
+  {
+    "id_sale": 6,
+    "id_item": 9,
+    "total": 350,
+    "date": "2025-02-19",
+    "seller": 106
   }
 ]

@@ -1,68 +1,82 @@
 [
   {
-    "id": 101,
-    "nombre": "Notebook Lenovo",
-    "desc": "Notebook 15'' Ryzen 5, 8GB RAM, SSD 512GB",
-    "precio": 450000,
-    "imagen": "notebook-lenovo.jpg",
-    "disponible": true
+    "id": 1,
+    "name": "Laptop HP Pavilion 14",
+    "desc": "Notebook de 14'' con AMD Ryzen 7 y 16 GB de RAM.",
+    "purchase_price": 750,
+    "selling_price": 950,
+    "category": "Laptop"
   },
   {
-    "id": 102,
-    "nombre": "Smartphone Samsung A34",
-    "desc": "Pantalla 6.5'', 128GB, Cámara 48MP",
-    "precio": 320000,
-    "imagen": "samsung-a34.jpg",
-    "disponible": true
+    "id": 2,
+    "name": "Smartphone Motorola G82",
+    "desc": "Pantalla OLED de 6.6'', Snapdragon 695, 128 GB.",
+    "purchase_price": 220,
+    "selling_price": 299,
+    "category": "Smartphone"
   },
   {
-    "id": 103,
-    "nombre": "Auriculares Bluetooth JBL",
-    "desc": "Con cancelación de ruido, batería 20hs",
-    "precio": 80000,
-    "imagen": "jbl-bluetooth.jpg",
-    "disponible": false
+    "id": 3,
+    "name": "Tablet Samsung Galaxy Tab A8",
+    "desc": "Pantalla de 10.5'', 4 GB RAM, 64 GB almacenamiento.",
+    "purchase_price": 180,
+    "selling_price": 250,
+    "category": "Tablet"
   },
   {
-    "id": 104,
-    "nombre": "Monitor 24''",
-    "desc": "Monitor Full HD con tecnología IPS",
-    "precio": 90000,
-    "imagen": "https://example.com/img/monitor.jpg",
-    "disponible": true
+    "id": 4,
+    "name": "Monitor LG UltraGear 27''",
+    "desc": "Monitor gaming IPS 144 Hz con resolución Full HD.",
+    "purchase_price": 210,
+    "selling_price": 280,
+    "category": "Monitor"
   },
   {
-    "id": 105,
-    "nombre": "Tablet 10''",
-    "desc": "Tablet con Android y 64GB de almacenamiento",
-    "precio": 95000,
-    "imagen": "https://example.com/img/tablet.jpg",
-    "disponible": true
+    "id": 5,
+    "name": "Laptop Lenovo IdeaPad 3",
+    "desc": "15.6'', Intel Core i3, SSD de 256 GB y 8 GB de RAM.",
+    "purchase_price": 500,
+    "selling_price": 650,
+    "category": "Laptop"
   },
-  [
-    {
-      "id": 106,
-      "nombre": "Mouse Inalámbrico Logitech",
-      "desc": "Mouse ergonómico inalámbrico, 1600dpi",
-      "precio": 80000,
-      "imagen": "mouse-logitech.jpg",
-      "disponible": true
-    },
-    {
-      "id": 107,
-      "nombre": "Teclado Mecánico Redragon",
-      "desc": "RGB, switches blue, antighosting",
-      "precio": 170000,
-      "imagen": "teclado-redragon.jpg",
-      "disponible": true
-    },
-    {
-      "id": 108,
-      "nombre": "Monitor LG 24'' Full HD",
-      "desc": "Resolución 1920x1080, HDMI, IPS",
-      "precio": 220000,
-      "imagen": "monitor-lg.jpg",
-      "disponible": false
-    }
-  ]
+  {
+    "id": 6,
+    "name": "Smartphone Xiaomi Redmi Note 12",
+    "desc": "Cámara de 50 MP, AMOLED 6.67'', 128 GB.",
+    "purchase_price": 190,
+    "selling_price": 260,
+    "category": "Smartphone"
+  },
+  {
+    "id": 7,
+    "name": "Tablet Lenovo M10 Plus",
+    "desc": "Pantalla 10.3'', 4 GB RAM, procesador MediaTek.",
+    "purchase_price": 160,
+    "selling_price": 220,
+    "category": "Tablet"
+  },
+  {
+    "id": 8,
+    "name": "Monitor Samsung 24'' Curvo",
+    "desc": "Full HD, curva 1800R, ideal para home office.",
+    "purchase_price": 170,
+    "selling_price": 230,
+    "category": "Monitor"
+  },
+  {
+    "id": 9,
+    "name": "Laptop ASUS VivoBook 15",
+    "desc": "Intel Core i7, SSD 512 GB, pantalla antirreflejo.",
+    "purchase_price": 820,
+    "selling_price": 1050,
+    "category": "Laptop"
+  },
+  {
+    "id": 10,
+    "name": "Smartphone Samsung Galaxy A14",
+    "desc": "Cámara triple, batería de 5000 mAh, 128 GB.",
+    "purchase_price": 150,
+    "selling_price": 210,
+    "category": "Smartphone"
+  }
 ]
