@@ -68,7 +68,19 @@
     "userName": "SofiaMorales",
     "email": "sofia.morales@example.com",
     "pass": "sofiaSecure"
+  },
+  {
+    "id": 1749470619197,
+    "name": "Lucía Monetto",
+    "username": "lucia123",
+    "email": "lucia@mail.com",
+    "pass": "$2b$10$jh.hYw9unGL.Fl2wpAu6ROEyLGt1Tv/0.r3Mlg4ZwZSXhigyglXGC"
+  },
+  {
+    "id": 1749471422824,
+    "name": "Rocio Gonzalez",
+    "username": "rooo",
+    "email": "rociog@mail.com",
+    "pass": "$2b$10$NrVbSH.SqpnLykZMiENT8.j9qKsis/IDKePeOc1SW2404S1FKKG8y"
   }
 ]
-
-
